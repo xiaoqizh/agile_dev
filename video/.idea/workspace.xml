@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="video:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ad5005a-3608-4c04-992c-55c36f7ee6ba" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webfinal@47.95.5.140" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webfinal@47.95.5.140" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webfinal@47.95.5.140" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="webfinal: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="webfinal@47.95.5.140" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="webfinal: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="comments: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="video" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/agile_dev" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XviDm4dOVbB6wiOXFpHOiKRV2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowJRebel Executor.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.20845342" />
+    <property name="project.structure.side.proportion" value="0.25027084" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.video.mapper" />
+      <recent name="cn.video.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject" />
+      <recent name="E:\JavaProject\video\src\main\webapp\WEB-INF\static\images" />
+      <recent name="E:\JavaProject\video\src\main\webapp\WEB-INF\static\js" />
+      <recent name="E:\JavaProject\video\src\main\webapp\WEB-INF" />
+      <recent name="E:\JavaProject\video\src\main\webapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\video\src\main\webapp" />
+      <recent name="E:\JavaProject\video\src\main\webapp\WEB-INF\static\jsp" />
+      <recent name="E:\JavaProject\video\src\main\webapp\person_images" />
+      <recent name="E:\JavaProject\video\src\test\java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="672C1CC7A62E25778528A4DAAE3D8715" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="15999999998" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="wangbadan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="verify_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="smsCode" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="15999999999" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="wangbadan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="verify_password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="smsCode" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.video">
+    <configuration name="FileUploadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllTest.FileUploadTest" />
+      <module name="video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AllTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllTest.MailTest" />
+      <module name="video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AllTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.video.pojo.User" />
+      <module name="video" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.video.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionMapperTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.video.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.video.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cn.video.mapper.CollectionMapperTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentServiceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.video.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.video.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.video.service.CommentServiceTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remote" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="HOST" value="47.95.5.140" />
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://47.95.5.140:8080/" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="video:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="d8a202d5-ada8-45fd-be23-09758b04b91c" />
+                    <id>d8a202d5-ada8-45fd-be23-09758b04b91c</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="d8a202d5-ada8-45fd-be23-09758b04b91c" />
+                    <id>d8a202d5-ada8-45fd-be23-09758b04b91c</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="/home/tomcat/apache-tomcat-8.5.8/webapps" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="3c6a1b1f-64e4-40c7-98b0-de84363d43f3" />
+                    <id>3c6a1b1f-64e4-40c7-98b0-de84363d43f3</id>
+                  </TransportTarget>
+                </option>
+                <staging-path>/home/tomcat/apache-tomcat-8.5.8/webapps</staging-path>
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="3c6a1b1f-64e4-40c7-98b0-de84363d43f3" />
+                    <id>3c6a1b1f-64e4-40c7-98b0-de84363d43f3</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="258201de-917e-493f-a594-7954e3ece2a7" />
+          <host-id>258201de-917e-493f-a594-7954e3ece2a7</host-id>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2308" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="2309" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="video:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="video" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.100" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="video:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_video_3" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12151" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="12599" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="video:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MailTest" />
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.FileUploadTest" />
+      <item itemvalue="JUnit.CommentServiceTest.test1" />
+      <item itemvalue="JUnit.CollectionMapperTest.test1" />
+      <item itemvalue="Tomcat Server.video" />
+      <item itemvalue="Tomcat Server.remote" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileUploadTest" />
+        <item itemvalue="Application.User" />
+        <item itemvalue="JUnit.CollectionMapperTest.test1" />
+        <item itemvalue="JUnit.CommentServiceTest.test1" />
+        <item itemvalue="Application.MailTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.112033196" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad5005a-3608-4c04-992c-55c36f7ee6ba" name="Default" comment="" />
+      <created>1531132513455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531132513455</updated>
+      <workItem from="1531132516347" duration="341000" />
+      <workItem from="1531132869232" duration="1352000" />
+      <workItem from="1531134434757" duration="1291000" />
+      <workItem from="1531137063095" duration="709000" />
+      <workItem from="1531137848694" duration="12215000" />
+      <workItem from="1531150174971" duration="1736000" />
+      <workItem from="1531186095749" duration="7045000" />
+      <workItem from="1531194189294" duration="39789000" />
+      <workItem from="1531273894870" duration="4375000" />
+      <workItem from="1581932857034" duration="5666000" />
+      <workItem from="1581996186050" duration="2061000" />
+      <workItem from="1582009886069" duration="261000" />
+      <workItem from="1582010162824" duration="1847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 19h 52m 22s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 19h 53m 39s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 19h 56m 38s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 19h 56m 56s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 19h 59m 22s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 20h 02m 30s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 20h 05m 20s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 20h 08m 20s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommentServiceTest_test1 - 2018.07.10 at 20h 09m 09s.xml">
+      <configuration name="CommentServiceTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CollectionMapperTest_test1 - 2018.07.10 at 21h 26m 01s.xml">
+      <configuration name="CollectionMapperTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="113" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581933455095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="113" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581933455095" />
+    <state x="527" y="97" key="FileChooserDialogImpl" timestamp="1581932896434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="97" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581932896434" />
+    <state width="1283" height="112" key="GridCell.Tab.0.bottom" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.0.center" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.0.left" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.0.right" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.1.bottom" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.1.center" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.1.left" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.1.right" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.2.bottom" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.2.center" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.2.left" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="112" key="GridCell.Tab.2.right" timestamp="1582012929337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="112" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1582012929337" />
+    <state width="1283" height="3" key="GridCell.Tab.3.bottom" timestamp="1581933446856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="3" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581933446856" />
+    <state width="1283" height="3" key="GridCell.Tab.3.center" timestamp="1581933446855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="3" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1581933446855" />
+    <state width="1283" height="3" key="GridCell.Tab.3.left" timestamp="1581933446855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="3" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1581933446855" />
+    <state width="1283" height="3" key="GridCell.Tab.3.right" timestamp="1581933446855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1283" height="3" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1581933446855" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1582010243970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582010243970" />
+    <state x="439" y="39" key="search.everywhere.popup" timestamp="1581998041460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="39" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581998041460" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/AllTest/FileUploadTest.java</url>
+          <line>299</line>
+          <properties class="AllTest.FileUploadTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>video:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25027084" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>video</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25027084" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
